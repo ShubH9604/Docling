@@ -1,4 +1,4 @@
-from docling.document_converter import DocumentConverter
+from docling.document_converter import DocumentConverter 
 
 # Step 1: Initialize the converter
 converter = DocumentConverter()
